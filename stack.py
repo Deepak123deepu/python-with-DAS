@@ -135,3 +135,16 @@ print(-1)
 
 """
 
+
+"""
+question using stack
+
+Input: "we are all humans on earth"
+
+Output: thrae no snamuh lla rea ew
+
+Explanation: reverse all the string in the sentance
+
+"""
+
+
